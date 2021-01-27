@@ -1,0 +1,10 @@
+body{
+    background-color:black;
+    background-image: url("https://images.unsplash.com/photo-1567107989883-d7f4da0b59e6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGRpeWF8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+h1{
+   color: azure; 
+}

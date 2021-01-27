@@ -1,0 +1,41 @@
+body{
+    background-color:black;
+    background-image: url("https://images.unsplash.com/photo-1567107989883-d7f4da0b59e6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGRpeWF8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+h1{
+    text-align: center;
+    border: 3px outset palevioletred;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.Student{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.expert{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.help{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 51%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

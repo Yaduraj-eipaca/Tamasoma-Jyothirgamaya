@@ -1,0 +1,19 @@
+body{
+    background-color: lightgreen;
+    border: 8px outset greenyellow;
+    margin: 0%;
+}
+
+h1{
+    text-align: center;
+    border: 10px outset;
+    border-color:darkorchid;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.warning{
+    text-align: center;
+    border:3px dotted;
+}
+
